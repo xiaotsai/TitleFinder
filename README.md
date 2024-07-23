@@ -22,7 +22,7 @@ git clone https://github.com/xiaotsai/TitleFinder.git
 go get github.com/PuerkitoBio/goquery
 go build -o TitleFinder
 ```
-
+### Usage
 ```
 Usage: TitleFinder.exe -l <file> [-o <output>] [-p <proxy>] [-t <threads>]
 
